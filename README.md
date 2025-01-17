@@ -8,9 +8,9 @@ Problem: Sort customer orders by the "Order Amount" column.
 
 Algorithms:
 
-Bubble Sort
+- Bubble Sort
 
-Merge Sort
+- Merge Sort
 
 Analysis: Time taken by each algorithm is measured across datasets of different sizes and visualized in a bar chart.
 
@@ -20,9 +20,9 @@ Problem: Search for exact and partial matches of product names in an online stor
 
 Algorithms:
 
-Binary Search (for exact matches)
+- Binary Search (for exact matches)
 
-Linear Search (for partial matches)
+- Linear Search (for partial matches)
 
 Analysis: Execution times for both search methods are compared across datasets, with results saved to a CSV file and visualized in a bar chart.
 
@@ -32,9 +32,9 @@ Problem: Rank patient test results by urgency.
 
 Algorithms:
 
-Quick Sort
+- Quick Sort
 
-Merge Sort
+- Merge Sort
 
 Analysis: Sorting times for each algorithm are measured and visualized to compare performance.
 
@@ -44,18 +44,18 @@ Problem: Search for specific document IDs (exact match) and document metadata (p
 
 Algorithms:
 
-Binary Search (for exact document IDs)
+- Binary Search (for exact document IDs)
 
-Linear Search (for partial metadata match)
+- Linear Search (for partial metadata match)
 
 Analysis: Performance comparisons are plotted using logarithmic scales for better visualization of differences across large datasets.
 
 _Features_
 
-Clean, modular code for sorting and searching.
+- Clean, modular code for sorting and searching.
 
-Performance visualization using Matplotlib.
+- Performance visualization using Matplotlib.
 
-Handling of datasets of varying sizes.
+- Handling of datasets of varying sizes.
 
-Real-time interaction for search tasks.
+- Real-time interaction for search tasks.
